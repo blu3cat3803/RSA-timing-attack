@@ -1,0 +1,11 @@
+Using Montgomery with (2ms) sleep for exponentiation
+Using the following keys:
+p:      1003141
+q:      1105669
+
+n (pubkey):     1109141906329
+e:(pubkey)      72498941
+d:(privkey)     1066649484581
+
+d as bit string:
+1111100001011001010000110111110100100101
